@@ -11,7 +11,7 @@
 
 ## 🚀 My Tech Stack  
 💻 **Languages**: Python, MATLAB  
-🔬 **Deep Learning**: PyTorch, TensorFlow, Keras  
+🔬 **Deep Learning**: PyTorch, Keras, scikit-learn  
 🖥️ **DevOps**: Docker  
 📊 **Data Science**: Pandas, NumPy, OpenCV  
 
