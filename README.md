@@ -1,6 +1,5 @@
 # Hi, I'm **Ali AliAkbari** 👋  
 🚀 **Fluid Mechanics Engineer | Deep Learning Enthusiast | Open Source Contributor**  
-
 🔭 Currently working on **Super-Resolution in Fluid Dynamics using Deep Learning**  
 🌱 Learning **Data-Driven Methods for Fluid Mechanics & Turbulence Modeling**  
 💡 Passionate about **AI, Deep Learning, Fluid Dynamics, and Open Source**
