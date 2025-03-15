@@ -2,7 +2,7 @@
 🚀 **Fluid Mechanics Engineer | Deep Learning Enthusiast | Open Source Contributor**  
 🔭 Currently working on **Super-Resolution in Fluid Dynamics using Deep Learning**  
 🌱 Learning **Data-Driven Methods for Fluid Mechanics & Turbulence Modeling**  
-💡 Passionate about **AI, Deep Learning, Fluid Dynamics, and Open Source**
+💡 Passionate about **AI, Deep Learning, Fluid Dynamics, and Open Source CFD Solver**
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](http://linkedin.com/in/ali-aliakbari-602227167)  
